@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Proglist</string>
+    <string-array name="options">
+        <item>Languages</item>
+        <item>Frameworks</item>
+        <item>Tools</item>
+    </string-array>
+</resources>
